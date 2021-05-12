@@ -1,7 +1,7 @@
  # SmartSunGlasses
 A smart controlled sun glasses comprising of several electronic devices components, communication protocols and embedded with software application.
 It comprises of a esp32 controller which works as a node for this project.
-<img src="Images/Picture_node_Mcu.jpg" width="500">
+<img src="LEDGoogle/Images/Picture_node_Mcu.jpg" width="500">
  
 
  
@@ -23,4 +23,4 @@ It comprises of a esp32 controller which works as a node for this project.
 3.	A fashionable and helpful product will lead in divergence of lifestyle of deaf/dumb people.
 
 # Prototype Model
-<img src="Images/Pitcure_smart_glasses.jpeg" width="500">
+<img src="LEDGoogle/Images/Pitcure_smart_glasses.jpeg" width="500">
